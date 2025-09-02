@@ -7,7 +7,7 @@
 
 Markup :
 
-    # Heading 1
+    # Adam's Markdown Cheatsheet
 
 Alternative markup :
 
